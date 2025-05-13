@@ -12,6 +12,10 @@ public class DuAnGia {
 
     public static void main(String[] args) {
         System.out.println("Hello World!");
-        System.out.println("Trung Duc");
+
+        System.out.println("Trung Duc hehehe");
+
+        System.out.println("LINH KUN");
+
     }
 }
